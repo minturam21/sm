@@ -1,0 +1,8 @@
+{
+  "name": "EduInstify - Professional Institute Management System",
+  "description": "A comprehensive, institutional-grade educational website featuring a public-facing portal for students and parents, and a robust admin dashboard for managing courses, notices, enquiries, and gallery content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
